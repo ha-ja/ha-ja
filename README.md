@@ -1,5 +1,5 @@
 ### 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ha-ja&show_icons=true&theme=transparent)
+<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ha-ja&show_icons=true&theme=transparent) -->
 
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/FreeBSD-informational?style=flat&logo=freebsd&logoColor=white&color=AB2B28)
