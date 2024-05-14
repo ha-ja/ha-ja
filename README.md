@@ -9,6 +9,7 @@
 ![](https://img.shields.io/badge/Swift-informational?style=flat&logo=swift&logoColor=white&color=F05138)
 ![](https://img.shields.io/badge/C++-informational?style=flat&logo=cplusplus&logoColor=white&color=00599C)
 ![](https://img.shields.io/badge/Assembler-informational?style=flat&logo=chip&logoColor=white&color=007ACC)
+
 ![](https://img.shields.io/badge/Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=4EAA25)
 
 <!--
