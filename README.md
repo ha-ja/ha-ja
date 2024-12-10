@@ -4,6 +4,7 @@
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/FreeBSD-informational?style=flat&logo=freebsd&logoColor=white&color=AB2B28)
 
+![](https://img.shields.io/badge/Kotlin-informational?style=flat&logo=kotlin&logoColor=white&color=007396)
 ![](https://img.shields.io/badge/Java-informational?style=flat&logo=java&logoColor=white&color=007396)
 ![](https://img.shields.io/badge/Python-informational?style=flat&logo=python&logoColor=white&color=3776AB)
 ![](https://img.shields.io/badge/Swift-informational?style=flat&logo=swift&logoColor=white&color=F05138)
