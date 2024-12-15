@@ -1,8 +1,9 @@
 ### 
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ha-ja&show_icons=true&theme=transparent) -->
-
-![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/POSIX-informational?style=flat&logo=fa-terminal&logoColor=white&color=lightgray)
+![](https://img.shields.io/badge/Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/FreeBSD-informational?style=flat&logo=freebsd&logoColor=white&color=AB2B28)
+![](https://img.shields.io/badge/macOS-informational?style=flat&logo=apple&logoColor=white&color=gray)
 
 ![](https://img.shields.io/badge/Kotlin-informational?style=flat&logo=kotlin&logoColor=white&color=007396)
 ![](https://img.shields.io/badge/Java-informational?style=flat&logo=java&logoColor=white&color=007396)
