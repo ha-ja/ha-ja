@@ -1,4 +1,8 @@
 <p align="center">
+  <img src="assets/matrix.svg" width="100%" alt="ha-ja — matrix rain" />
+</p>
+
+<p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=3000&pause=800&color=88C0D0&center=true&vCenter=true&width=520&lines=%24+whoami;%3E+ha-ja;%3E+POSIX+%C2%B7+Linux+%C2%B7+FreeBSD+%C2%B7+macOS;%3E+Kotlin+%C2%B7+Java+%C2%B7+Swift+%C2%B7+Python+%C2%B7+C%2B%2B" alt="typing intro" />
 </p>
 
