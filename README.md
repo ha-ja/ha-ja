@@ -1,5 +1,8 @@
 <p align="center">
-  <img src="assets/matrix.svg" width="100%" alt="ha-ja — matrix rain" />
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="assets/matrix-light.svg" />
+    <img src="assets/matrix.svg" width="100%" alt="ha-ja — matrix rain" />
+  </picture>
 </p>
 
 <p align="center">
